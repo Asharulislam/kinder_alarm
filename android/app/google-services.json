@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "300914235706",
+    "project_id": "kinderalarm-5d8c0",
+    "storage_bucket": "kinderalarm-5d8c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300914235706:android:3dc364a9f0e31d379d1803",
+        "android_client_info": {
+          "package_name": "com.example.kinder_alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300914235706-77hs6me1e04vd2doqqh264r7pqsbksso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kinder_alarm",
+            "certificate_hash": "70d9b29cee1fc697ece18b0bff80573b1e139c3b"
+          }
+        },
+        {
+          "client_id": "300914235706-dr47j141gv5t3tvrs8g06mmmhvqi27og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCei04X_QGr2TsICVPRly-ji2oovMyHoiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300914235706-dr47j141gv5t3tvrs8g06mmmhvqi27og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
